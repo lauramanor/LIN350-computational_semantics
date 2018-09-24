@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+zip/gothic_novels.zip
+zip/gothic_novels_mini.zip
+zip/gothic_novels_short.zip
+gothic_novels_mini/pg42mini.txt
